@@ -13,7 +13,7 @@ Here is a list of handy libraries to help you with developing under PyTorch fram
 4. <a href="https://github.com/open-mmlab/mmdetection ">MMDetection: </a>
   MMDetection is an object detection toolbox based on PyTorch that contains a rich set of object detection and instance segmentation methods. It started from a codebase of MMDet team who won the detection track of COCO Challenge 2018. It gradually evolves into a unified platform that covers many popular detection methods. By now it provides weights for more than 200 network models.
 
-5. <a href=" https://www.fast.ai/">Fast.ai : </a>
+5. <a href="https://www.fast.ai/">Fast.ai : </a>
   The fast.ai library could be thought of as an independent framework, based on PyTorch. It simplifies training fast and accurate neural nets. For doing so, it uses modern best practices, including "out of the box" support for vision, text, tabular, and collaborative filtering models.
   
   
