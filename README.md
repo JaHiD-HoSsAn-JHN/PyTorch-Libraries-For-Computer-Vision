@@ -2,7 +2,7 @@
 
 Here is a list of handy libraries to help you with developing under PyTorch framework.
 1. <a href="https://albumentations.readthedocs.io/ ">Albumentations : </a>
-  A fast image augmentation library based on highly-optimized OpenCV library. Super simple yet powerful interface for different tasks (like segmentation, detection, etc.), that could be easily customized. Even though the library could be used not only under PyTorch framework, it has PyTorch helpers in its submodule albumentations.pytorch to make working with PyTorch tensors as easy as possible.
+  A fast image augmentation library based on highly-optimized OpenCV library. Super simple yet powerful interface for different tasks (like segmentation, detection, etc.), that could be easily customized. Even though the library could be used not only under PyTorch framework, it has PyTorch helpers in its submodule albumentations.pytorch to make working with PyTorch tensors as easy as possibles.
   
 2. <a href="https://www.tensorflow.org/tensorboard/ ">Tensorboard : </a>
   Starting with version 1.2 PyTorch integrates with TensorBoard, a tool designed for visualizing the results of neural network training runs. It comes extremely helpful to see what’s happening during your training. It provides tracking and visualizing metrics such as loss and accuracy, visualizing the model graph (ops and layers), viewing histograms of weights, biases, or other tensors as they change over time, displaying images, text, and audio data and much more.
